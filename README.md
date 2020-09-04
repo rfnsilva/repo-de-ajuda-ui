@@ -1,10 +1,10 @@
-# Repo de ajuda UI Design
+# 📌 Repo de ajuda UI Design
 
-## Sobre o Projeto
+## 🚀 Sobre o Projeto
 
 Esse repositório tem como objetivo principal apresentar e ensinar o básico do **UI Design**, de uma maneira completa e acessível para todos.
 
-## Roadmap
+## 📕 Índice
 
 1. [Introdução ao UI](./01-Introdução-ao-UI/Introdução-ao-UI.md)
 2. [Importância do UI](./02-A-importância-do-UI/A-importância-do-UI.md)
