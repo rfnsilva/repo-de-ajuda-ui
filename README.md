@@ -23,7 +23,3 @@ Esse repositório tem como objetivo principal apresentar e ensinar o básico do 
 15. [MicroInterações](./15-Microinterações/Microinterações.md)
 16. [Programação](./16-Programação/Programação.md)
 17. [Acessibilidade e Usabilidade](17-Acessibilidade-e-Usabilidade/Acessibilidade-e-Usabilidade.md)
-
-## Conhecimento Necessário para contribuir
-
-- UI
